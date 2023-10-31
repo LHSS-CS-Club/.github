@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, Welcome To LHSS CS Club 👋
+We meet every Tuesday after school in Rms. 1705 & 1605. 
+### Lesson Room
+A safe space for beginners, covering concepts such as Python, data structures, algorithms, and basic web dev.
+### Challenge Room
+Covering more challenging concepts, such as multiple programming languages, advanced data structures & algorithms, full stack dev.
+### Prev Lessons 2023-2024
+OOP - Big O Notation - Searching/Sorting Algos - Intro to Web Dev - Git/GitHub
 
 <!--
 
