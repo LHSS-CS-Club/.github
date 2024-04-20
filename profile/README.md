@@ -5,7 +5,7 @@ A safe space for beginners, covering concepts such as Python, data structures, a
 ### Challenge Room
 Covering more challenging concepts, such as multiple programming languages, advanced data structures & algorithms, full stack dev.
 ### Prev Lessons 2023-2024
-OOP - Big O Notation - Searching/Sorting Algos - Intro to Web Dev - Git/GitHub
+OOP - Big O Notation - Searching/Sorting Algos - Intro to Web Dev - Git/GitHub - ReactJS - UI/UX Design - Software Development Cycles - Pathfinding - Game Development - API Development - Networking - Data Science
 
 <!--
 
